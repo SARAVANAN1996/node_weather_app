@@ -1,5 +1,3 @@
-console.log('pubic app.js javascript')
-
 const formSelector = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('.message-1')
